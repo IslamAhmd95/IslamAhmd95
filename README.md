@@ -2,11 +2,13 @@
 
 Backend Developer — Python / FastAPI / Django
 
-Cairo, Egypt
-Phone: +20 111 94 59 143
-Email: [dev.islam95@gmail.com](mailto:dev.islam95@gmail.com)
-LinkedIn: [https://linkedin.com/in/islam-ahmd-b82254350/](https://linkedin.com/in/islam-ahmd-b82254350/)
-GitHub: [https://github.com/IslamAhmd95](https://github.com/IslamAhmd95)
+| Field    | Details |
+|---------|---------|
+| Location | Cairo, Egypt |
+| Phone    | +20 111 94 59 143 |
+| Email    | dev.islam95@gmail.com |
+| LinkedIn | https://linkedin.com/in/islam-ahmd-b82254350/ |
+| GitHub   | https://github.com/IslamAhmd95 |
 
 ---
 
